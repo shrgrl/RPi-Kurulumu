@@ -1,2 +1,2 @@
 # RPi-Kurulumu
- Includes setup of RPi with English and Turkish expression.
+Raspberry Pi modülünün kurulumunu İngilizce ve Türkçe olarak anlattım. Jupyter Notebook ile çalıştırıp, yararlanabilirsiniz.
